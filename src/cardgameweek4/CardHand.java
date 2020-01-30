@@ -3,7 +3,7 @@ package cardgameweek4;
  * a class that models the Card Hand.
  * A Card hand has an array of cards. 
  * How can you change the size of the hand? how big is it right now?
- * @suthor dancye, 2019.
+ * @suthor ankur, 2020.
  */
 
 public class CardHand {
