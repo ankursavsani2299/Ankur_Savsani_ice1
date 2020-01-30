@@ -2,7 +2,7 @@ package cardgameweek4;
 /**
  * Starter code for the Card class.
  * To be used in Week 4.
- * @author dancye, 2019
+ * @author ankur, 2020
  */
 public class Card {
     
