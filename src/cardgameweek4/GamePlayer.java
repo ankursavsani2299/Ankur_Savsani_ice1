@@ -3,7 +3,7 @@ package cardgameweek4;
  * A class to handle the user interaction for the Card
  * project. Contains a main method that generates a card hand
  * and then iterates over it to print its contents to the console.
- * @author dancye, 2019
+ * @author ankur, 2020
  */
 public class GamePlayer {
 
